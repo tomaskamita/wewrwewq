@@ -1,2 +1,5 @@
 # Fragnaticos_ar
-catalogo de perfumes 
+fragnaticos-catalogo
+│
+├── index.html
+└── README.md
